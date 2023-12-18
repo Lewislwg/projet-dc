@@ -6,7 +6,7 @@
    html{
        font-size: 62.5%; /* 16px mult 62.5% = 10 rem */
        background:linear-gradient(to top,rgba(0,0,0,.7) 70%,rgba(0,0,0,.7) 70%),
-       url(/asset/batman1.jpg)no-repeat fixed center center / cover;
+       url(../asset/batman1.jpg)no-repeat fixed center center / cover;
    }
    body{
        font: 1.6rem "Montserrat", sans-serif;
